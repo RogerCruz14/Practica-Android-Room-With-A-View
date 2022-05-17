@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">Practica-RoomWithAView-RogerCruz</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hint_word">Ingrese Palabra…</string>
+    <string name="button_save">Guardar</string>
+    <string name="empty_not_saved">No se guardo la palabra, está vacía.</string>
+    <string name="add_word">Añadir Palabra</string>
+</resources>
